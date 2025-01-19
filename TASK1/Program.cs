@@ -1,0 +1,14 @@
+﻿int a;
+int b;
+int c;
+a = int.Parse(Console.ReadLine());
+b = int.Parse(Console.ReadLine());
+c = int.Parse(Console.ReadLine());
+int sum = a+b+c;
+int min1 = Math.Min(a,b);
+int min2 = (min1,c);
+int max1 = Math.Max(a,b);
+int max2 = Math.Max(c,max1);
+System.Console.WriteLine($"Сумма: {sum}");
+System.Console.WriteLine($"Min: {min2}");
+System.Console.WriteLine($"Max: {max2}");

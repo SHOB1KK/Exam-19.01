@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\EXAM 19.01\TASK6\bin\Debug\net9.0\TASK6.exe
+C:\Users\user\Desktop\EXAM 19.01\TASK6\bin\Debug\net9.0\TASK6.deps.json
+C:\Users\user\Desktop\EXAM 19.01\TASK6\bin\Debug\net9.0\TASK6.runtimeconfig.json
+C:\Users\user\Desktop\EXAM 19.01\TASK6\bin\Debug\net9.0\TASK6.dll
+C:\Users\user\Desktop\EXAM 19.01\TASK6\bin\Debug\net9.0\TASK6.pdb
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\TASK6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\TASK6.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\TASK6.AssemblyInfo.cs
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\TASK6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\TASK6.dll
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\refint\TASK6.dll
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\TASK6.pdb
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\TASK6.genruntimeconfig.cache
+C:\Users\user\Desktop\EXAM 19.01\TASK6\obj\Debug\net9.0\ref\TASK6.dll
